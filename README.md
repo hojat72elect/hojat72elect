@@ -11,6 +11,11 @@ I recently graduated from master's degree of computer science, <a href="https://
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I once came across a black bear in nature 😁🐻
 
+
+<p>  
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hojat72elect&show_icons=true&hide_border=true&theme=dracula&layout=compact&langs_count=8"/>  
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=hojat72elect&show_icons=true&theme=dracula&hide_border=true" />
+</p>
 ---------------------------------------------------------------------------------------
 [![Hojat's github activity graph](https://activity-graph.herokuapp.com/graph?username=hojat72elect&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
