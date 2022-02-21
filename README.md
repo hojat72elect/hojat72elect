@@ -3,11 +3,11 @@
 I recently graduated from master's degree of computer science, <a href="https://laurentian.ca/program/computer-science">Laurentian Univerity</a> and currently searching for jobs. In my free time I make android apps and indie games.
 
 - 🔭 I’m currently working on <a href="https://github.com/hojat72elect/Notifyplus">NotifyPlus</a>, <a href="https://github.com/hojat72elect/Jila">Jila</a> and a tiny <a href="https://github.com/hojat72elect/Kotlin_Data_Structures_Algorithms">repo</a> in which I save my kotlin data structure and algorithms.
-- 🌱 I’m currently learning C++ and Godot
+- 🌱 I’m currently learning C# and Unity game engine as a hobby.
 - 👯 I’m looking to collaborate on all android apps that focus on Computer Vision.
 - 🤔 I’m looking for help with my job search.
 - 💬 Ask me about Android SDK, androidx documents, and Android fragmentation.
-- 📫 How to reach me: my <a href="https://twitter.com/hojat_93">twitter</a> handle.
+- 📫 Reach me via my <a href="https://twitter.com/hojat_93">twitter</a> handle.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I once came across a black bear in nature 😁🐻
 - ☕ If you enjoyed using the software tools I'm creating, I'd be thankkful if you <a href="https://www.buymeacoffee.com/hojat">buy me a coffee</a> 😉.
