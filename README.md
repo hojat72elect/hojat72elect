@@ -3,7 +3,7 @@
 I recently graduated from master's degree of computer science, <a href="https://laurentian.ca/program/computer-science">Laurentian Univerity</a> and currently searching for jobs. In my free time I make android apps and indie games.
 
 - 🔭 I’m currently working on <a href="https://github.com/hojat72elect/Notifyplus">NotifyPlus</a>, <a href="https://github.com/hojat72elect/Jila">Jila</a> and a tiny <a href="https://github.com/hojat72elect/Kotlin_Data_Structures_Algorithms">repo</a> in which I save my kotlin data structure and algorithms.
-- 🌱 I’m currently reading <a href="https://books.google.ca/books/about/Data_Structures_Algorithms_in_Kotlin_Sec.html?id=tAWLzgEACAAJ&source=kp_book_description&redir_esc=y">this</a> book. 
+- 🌱 I’m currently reading the first edition of <a href="https://books.google.ca/books/about/Data_Structures_Algorithms_in_Kotlin_Sec.html?id=tAWLzgEACAAJ&source=kp_book_description&redir_esc=y">this</a> book. 
 - 👯 I’m looking to collaborate on all android apps that focus on Computer Vision.
 - 🤔 I’m looking for help with my job search.
 - 💬 Ask me about Android SDK, androidx documents, and Android fragmentation.
