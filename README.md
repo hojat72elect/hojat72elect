@@ -1,16 +1,14 @@
 ## Hojat is here 👋
 
-I recently graduated from master's degree of computer science, <a href="https://laurentian.ca/program/computer-science">Laurentian Univerity</a> and currently searching for jobs. In my free time I make android apps and indie games.
-
-- 🔭 I’m currently working on <a href="https://github.com/hojat72elect/Notifyplus">NotifyPlus</a>, <a href="https://github.com/hojat72elect/RoomDemo">RoomDemo</a>, <a href="https://github.com/hojat72elect/Jila">Jila</a> and a tiny <a href="https://github.com/hojat72elect/Kotlin_Data_Structures_Algorithms">repo</a> in which I save my kotlin data structure and algorithms.
-- 🌱 I’m currently reading the first edition of <a href="https://books.google.ca/books/about/Data_Structures_Algorithms_in_Kotlin_Sec.html?id=tAWLzgEACAAJ&source=kp_book_description&redir_esc=y">this</a> book and also looking forward to learn more about <a href="https://flutter.dev/">Flutter</a>. 
-- 👯 I’m looking to collaborate on all android apps that focus on Computer Vision.
+- 🔭 I’m currently working on <a href="https://github.com/hojat72elect/RX_Demo">RxJava Demo</a>, <a href="https://github.com/hojat72elect/RoomDemo">RoomDemo</a>, <a href="https://github.com/hojat72elect/Retrofit_Demo">Retrofit Demo</a> and a tiny <a href="https://github.com/hojat72elect/Kotlin_Data_Structures_Algorithms">repo</a> in which I save my kotlin data structures and algorithms.
+- 🌱 I’m currently reading <a href="https://www.amazon.ca/Cracking-Coding-Interview-Programming-Questions/dp/0984782850">this</a> book and also look forward to dig deeper into <a href="https://play.google.com/store/books/details?pcampaignid=books_read_action&id=gYY1DQAAQBAJ">RxJava</a>. 
+- 👯 I’m looking to collaborate on all android apps that focus on Computer Vision or Internet-of-Things.
 - 🤔 I’m looking for help with my job search.
 - 💬 Ask me about Android SDK, androidx documents, and Android fragmentation.
 - 📫 Reach me via my <a href="https://twitter.com/hojat_93">twitter</a> handle.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I once came across a black bear in nature 😁🐻
-- ☕ If you enjoyed using the software tools I'm creating, I'd be thankkful if you <a href="https://www.buymeacoffee.com/hojat">buy me a coffee</a> 😉.
+- ☕ If you have enjoyed using the software tools I'm creating, I'd be thankkful if you <a href="https://www.buymeacoffee.com/hojat">buy me a coffee</a> 😉.
 
 
 <p>  
