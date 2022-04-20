@@ -1,4 +1,4 @@
-## Hojat is here <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+## Hojat is here <img src="Hi.gif" width="30px">
 
 - 🔭 I’m currently working on <a href="https://github.com/hojat72elect/Firebase_Demo">Firebase Demo</a> and an <a href="https://github.com/hojat72elect/Zahra">XML UI toolkit</a> for Android. I also have a tiny <a href="https://github.com/hojat72elect/Kotlin_Data_Structures_Algorithms">repo</a> in which I save my kotlin data structures and algorithms.
 - 🌱 I’m currently reading <a href="https://www.amazon.ca/Cracking-Coding-Interview-Programming-Questions/dp/0984782850">this</a> book and also look forward to dig deeper into <a href="https://play.google.com/store/books/details?pcampaignid=books_read_action&id=gYY1DQAAQBAJ">RxJava</a>. 
