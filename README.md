@@ -17,7 +17,7 @@
 
 ---------------------------------------------------------------------------------------
 
-[![Hojat's github activity graph](https://activity-graph.herokuapp.com/graph?username=hojat72elect&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Hojat's github activity graph](https://activity-graph.herokuapp.com/graph?username=hojat72elect)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 -------------------------------------------------------------
 ![](https://komarev.com/ghpvc/?username=hojat72elect)
