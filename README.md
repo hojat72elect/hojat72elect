@@ -1,6 +1,6 @@
 ## Hojat is here  <img src="Hi.gif" width="30px" height=30px>
 
-- 🔭 I’m currently working on <a href="https://github.com/hojat72elect/PhotoFinder">Photo Finder</a> and an <a href="https://github.com/hojat72elect/Zahra">XML UI toolkit</a> for Android. I also have a tiny <a href="https://github.com/hojat72elect/Kotlin_Data_Structures_Algorithms">repo</a> in which I save my kotlin data structures and algorithms.
+- 🔭 I’m currently working as an Android Developer Intern in <a href="https://github.com/TradeRev">TradeRev</a> 🤓🥸🥳.
 - 👯 I’m looking to collaborate on all android apps that focus on Computer Vision or Internet-of-Things.
 - 🤔 I’m looking for a pal who's interested in pair programming in Android, JVM, or Python.
 - 💬 Ask me about Android SDK, androidx documents, and Android fragmentation.
