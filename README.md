@@ -7,6 +7,6 @@
 - 📫 Reach me via my <a href="https://twitter.com/hojat_93">twitter</a> handle.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I once came across a black bear in nature 😁🐻
-- ☕ If you have enjoyed using the software tools I'm creating, I'd be thankkful if you <a href="https://www.buymeacoffee.com/hojat">buy me a coffee</a> 😉.
+- ☕ If you have enjoyed using the software tools I'm creating, I'd be thankful if you <a href="https://www.buymeacoffee.com/hojat">buy me a coffee</a> 😉.
 
 
