@@ -2,7 +2,7 @@
 
 - 🔭 A software engineer with a wide variety of interests in computer science. 🤓🥸🥳.
 - 👯 I’m looking forward to collaborate on any software tools that make life easier for humans.
-- 🤔 The most important fields of science I'm interested in are `Computer Graphics`, `Computer Vision`, `Natural Language Processing`, `Cybersecurity`, and last but not least, `Audio processing`.
+- 🤔 The most important fields of science I'm interested in are `Artificial Intelligence`, `Computer Graphics`, `Computer Vision`, `Natural Language Processing`, `Cybersecurity`, and last but not least, `Audio processing`.
 - 💬 Ask me about React and React Native documents; I can weep all day long about Android fragmentation/lifecycle 😭😁.
 - 📫 Reach me via my <a href="https://hojat72elect.github.io/">website</a>.
 - 😄 Pronouns: he/him
