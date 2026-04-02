@@ -1,7 +1,7 @@
 ## Hojat was here  <img src="Hi.gif" width="30px" height=30px>
 
 - 🔭 A software engineer with a wide variety of interests in computer science and math. 🤓🥸🥳.
-- 👯 I’m looking forward to collaborate on any software tools that make life easier for humans; I'm also interested in reading research papers published by [SIGPLAN](https://www.sigplan.org/) and [SIGGRAPH](https://www.siggraph.org/).
+- 👯 I’m looking forward to collaborate on any software tools that make life easier for humans; I'm also interested in reading research papers published by [SIGSAC](https://www.acm.org/special-interest-groups/sigs/sigsac) and [SIGGRAPH](https://www.siggraph.org/).
 - 🤔 The most important fields of science I'm interested in are `Artificial Intelligence`, `Computer Graphics`, `Computer Vision`, `Natural Language Processing`, `Cybersecurity`, and last but not least, `Audio processing`. Recently, after reading a few online docs, I'm interested to learn more about `compiler design and improvement` as well.  
 - 💬 Ask me about React and React Native documents; I can weep all day long about Android fragmentation/lifecycle 😭😁.
 - 📫 Reach me via my <a href="https://hojat72elect.github.io/">website</a>.
