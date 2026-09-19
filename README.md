@@ -5,7 +5,7 @@
 - 🤔 The most important fields of science I'm interested in are `Artificial Intelligence`, `Computer Graphics`, `Computer Vision`, `Natural Language Processing`, `Cybersecurity`, and last but not least, `Audio processing`. Recently, after reading a few online docs, I'm interested to learn more about `compiler design and improvement` as well.  
 - 💬 Ask me about React and React Native documents; I can weep all day long about Android fragmentation/lifecycle 😭😁.
 - 📫 Reach me via my <a href="https://hojat72elect.github.io/">website</a>.
-- 🤖 At the time of writing, my favorite programming languages are **Python**, **TypeScript**, and **C++**.
+- 🤖 At the time of writing, my favorite programming languages are **Python**, **TypeScript**, and **C++** (maybe also a little bit of **C** on the side 😁).
 - ⚡ Fun fact: I twice came across black bears in nature 🐻, have lived in 2 different countries and speak both Persian and English.
 - 🪧 I'm agnostic and also mostly apolitical; but The social causes I care about are [freedom for Iran](https://en.wikipedia.org/wiki/2025%E2%80%932026_Iranian_protests) and [Woman Life Freedom](https://en.wikipedia.org/wiki/Woman,_Life,_Freedom_movement).
 - ☕ If you have enjoyed using the software tools I'm creating, I'd be thankful if you <a href="https://www.buymeacoffee.com/hojat">buy me a cup of ice cappuccino</a> in this hot summer 🌞😁.
