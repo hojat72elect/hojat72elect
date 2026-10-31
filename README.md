@@ -11,3 +11,4 @@
 - ☕ If you have enjoyed using the software tools I'm creating, I'd be thankful if you <a href="https://www.buymeacoffee.com/hojat">buy me a cup of tea</a> in this Fall season 🍂😁.
 
 
+<img src="koi/koi.gif" width="256" alt="My koi">
