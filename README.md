@@ -8,7 +8,7 @@
 - 🤖 At the time of writing, my favorite programming languages are **TypeScript**, **Python** and **C++**.
 - ⚡ Fun fact: I twice came across black bears in nature 🐻, have lived in 2 different countries and speak both Persian and English.
 - 🪧 I'm agnostic and also mostly apolitical; but The social causes I care about are [freedom for Iran](https://en.wikipedia.org/wiki/2025%E2%80%932026_Iranian_protests) and [Woman Life Freedom](https://en.wikipedia.org/wiki/Woman,_Life,_Freedom_movement).
-- ☕ If you have enjoyed using the software tools I'm creating, I'd be thankful if you <a href="https://www.buymeacoffee.com/hojat">buy me a cup of tea</a> in this Fall season 🍂😁.
+- ☕ If you have enjoyed using the software tools I'm creating, I'd be thankful if you <a href="https://www.buymeacoffee.com/hojat">buy me a cup of tea</a> in this Fall season 🍂 or I would feed this Koi with your money 🐟😁.
 
 
 <img src="koi/koi.gif" width="256" alt="My koi">
